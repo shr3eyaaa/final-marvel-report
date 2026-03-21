@@ -36,7 +36,7 @@ The repository I was tasked with had a failing  test (GitHub Actions). I followe
 4.  **Committing & Pushing:** Committed my changes and pushed them to my forked repository.
 5.  **Pull Request:** Opened a Pull Request back to the original repository to propose my fix.
 
-![Finished task](githubtask-pic.png)
+![Finished task](fixederror2.png)
 [Click here for valid proof](https://github.com/shr3eyaaa/git-task)
 
 
